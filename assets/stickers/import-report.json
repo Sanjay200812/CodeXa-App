@@ -1,0 +1,78 @@
+{
+  "source": "assets\\stickers\\source",
+  "catalogVersion": "dc2b33d4d6824a0ff7a0",
+  "counts": {
+    "other_skipped": 1,
+    "source_image_files": 3413,
+    "unique_accepted": 3727,
+    "accepted_references": 4193,
+    "unsupported_special_files": 14,
+    "duplicate_content": 466,
+    "source_zip_files": 34,
+    "zip_image_members": 780
+  },
+  "manifestStickerCount": 3727,
+  "totalUniqueAssetBytes": 759591080,
+  "rejected": [
+    {
+      "source": ".nomedia",
+      "reason": "not_a_supported_sticker_file"
+    },
+    {
+      "source": "STK-20260503-WA0241.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260525-WA0127.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260530-WA0003.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260718-WA0127.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260814-WA0035.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260814-WA0037.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260824-WA0003.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260826-WA0055.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260918-WA0126.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK-20260919-WA0030.was",
+      "reason": "unsupported_format_.was"
+    },
+    {
+      "source": "STK_PK-20260830-WA0052.enc",
+      "reason": "unsupported_format_.enc"
+    },
+    {
+      "source": "STK_PK-20260830-WA0053.enc",
+      "reason": "unsupported_format_.enc"
+    },
+    {
+      "source": "STK_PK-20260830-WA0054.enc",
+      "reason": "unsupported_format_.enc"
+    },
+    {
+      "source": "STK_PK-20260830-WA0055.enc",
+      "reason": "unsupported_format_.enc"
+    }
+  ]
+}

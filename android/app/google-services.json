@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268559658188",
+    "project_id": "codxa-agency",
+    "storage_bucket": "codxa-agency.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268559658188:android:1d94c94089a0538d0e2669",
+        "android_client_info": {
+          "package_name": "online.codexa.codexa_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268559658188-3l12ea645iilsns2violcbgvrudmjq77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "online.codexa.codexa_mobile",
+            "certificate_hash": "465576873422feaf24f4f7bcc273150f359b9848"
+          }
+        },
+        {
+          "client_id": "268559658188-bu0mls9rd74n26tgsv6ajo3khg1hcnrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3NZ5ukZrtgnb-yJDDnM4EA-Ax6Tqe3p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268559658188-bu0mls9rd74n26tgsv6ajo3khg1hcnrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
